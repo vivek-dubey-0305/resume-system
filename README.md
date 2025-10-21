@@ -46,3 +46,18 @@ Built with scalability, modularity, and cross-platform compatibility in mind.
 ---
 
 
+# 1️⃣ Clone the repository
+git clone https://github.com/vivek-dubey-0305/resume-system.git
+
+# 2️⃣ Navigate into backend
+cd backend
+
+# 3️⃣ Install dependencies
+npm install
+
+# 4️⃣ Create environment file
+cp .env.example .env
+
+# 5️⃣ Start the development server
+npm run dev
+
